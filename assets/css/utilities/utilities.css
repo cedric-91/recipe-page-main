@@ -1,0 +1,128 @@
+@layer utilities {
+	/* COLOURS */
+	.text-rose-800 {
+		color: var(--color-rose-800);
+	}
+	.bg-rose-50 {
+		background-color: var(--color-rose-50);
+	}
+	.bg-brown-800 {
+		background-color: var(--color-brown-800);
+	}
+	.text-white-900 {
+		color: var(--color-white-900);
+	}
+
+	/* FONT SIZES */
+	.text-sm {
+		font-size: var(--fs-sm);
+	}
+	.text-normal {
+		font-size: var(--fs-normal);
+	}
+	.text-md {
+		font-size: var(--fs-md);
+	}
+	.text-lg {
+		font-size: var(--fs-lg);
+	}
+	.text-xl {
+		font-size: var(--fs-xl);
+	}
+	.text-2xl {
+		font-size: var(--fs-2xl);
+	}
+	.text-3xl {
+		font-size: var(--fs-3xl);
+	}
+	.text-4xl {
+		font-size: var(--fs-4xl);
+	}
+	.text-5xl {
+		font-size: var(--fs-5xl);
+	}
+
+	/* BORDER RADIUS */
+	.rounded-r {
+		border-radius: var(--br-r);
+	}
+	.rounded-r-l {
+		border-radius: var(--br-r-l);
+	}
+
+	/* MARGIN TOP */
+	@media (width >= 40rem) {
+		.sm\:my-padding-lg {
+			margin-block: var(--my-padding-lg);
+		}
+	}
+
+	/* PADDING TOP */
+	.sm\:py-padding-xs {
+		padding-block: var(--py-padding-xs);
+	}
+
+	/* MARGINGS Bottoms */
+	.mb-xs {
+		margin-bottom: var(--spacing-gap-xs);
+	}
+	.mb-sm {
+		margin-bottom: var(--spacing-gap-sm);
+	}
+	.mb-md {
+		margin-bottom: var(--spacing-gap-md);
+	}
+	.mb-lg {
+		margin-bottom: var(--spacing-gap-lg);
+	}
+	.mb-xl {
+		margin-bottom: var(--spacing-gap-xl);
+	}
+	.mb-2xl {
+		margin-bottom: var(--spacing-gap-2xl);
+	}
+	.mb-3xl {
+		margin-bottom: var(--spacing-gap-3xl);
+	}
+
+	/* SPACING */
+	.gap-xs {
+		gap: var(--spacing-gap-xs);
+	}
+	.gap-sm {
+		gap: var(--spacing-gap-sm);
+	}
+	.gap-md {
+		gap: var(--spacing-gap-md);
+	}
+	.gap-md-lg {
+		gap: var(--spacing-gap-md-lg);
+	}
+	.gap-lg {
+		gap: var(--spacing-gap-lg);
+	}
+	.gap-xl {
+		gap: var(--spacing-gap-xl);
+	}
+	.gap-2xl {
+		gap: var(--spacing-gap-2xl);
+	}
+	.gap-3xl {
+		gap: var(--spacing-gap-3xl);
+	}
+	.gap-4xl {
+		gap: var(--spacing-gap-4xl);
+	}
+	.gap-5xl {
+		gap: var(--spacing-gap-5xl);
+	}
+	.gap-6xl {
+		gap: var(--spacing-gap-6xl);
+	}
+	.gap-7xl {
+		gap: var(--spacing-gap-7xl);
+	}
+	.gap-8xl {
+		gap: var(--spacing-gap-8xl);
+	}
+}
