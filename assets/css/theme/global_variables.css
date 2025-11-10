@@ -1,0 +1,38 @@
+:root {
+	--max-w-container: 46rem;
+
+	/* FONT FAMILY */
+	--font-family-base: "Young Serif", serif;
+	--font-family-secondary: "Outfit", sans-serif;
+
+	/* COLOURS */
+	--bg-primary-base: #f3e5d8;
+
+	/* FONT SIZE */
+	--fs-sm: 0.875rem;
+	--fs-normal: 1rem;
+	--fs-md: 1.125rem;
+	--fs-lg: 1.25rem;
+	--fs-xl: 1.5rem;
+	--fs-2xl: 2rem;
+	--fs-3xl: 2.5rem;
+	--fs-4xl: 3rem;
+	--fs-5xl: 4rem;
+
+	/* BORDER RADIUS */
+	--br-r: 1rem;
+	--br-r-l: 1.5rem;
+
+	/* SPACING */
+	--spacing-gap-sm: 1rem;
+	--spacing-gap-md-lg: 1.75rem;
+	--spacing-gap-lg: 2rem;
+	--spacing-gap-xl: 3rem;
+	--spacing-gap-2xl: 4rem;
+	--spacing-gap-3xl: 6rem;
+
+	--my-padding-lg: 7.5rem;
+	--py-padding-xs: 1.875rem;
+
+	--px-padding-xs: 1.85rem;
+}

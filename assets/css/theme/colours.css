@@ -1,0 +1,8 @@
+:root {
+	/* GLOBAL COLOURS */
+	--color-white-900: hsl(0, 0%, 100%);
+	--color-rose-800: hsl(332, 51%, 32%);
+	--color-rose-50: hsl(330, 100%, 98%);
+	--color-brown-800: hsl(14, 45%, 36%);
+	--bg-primary-base: #f3e5d8;
+}
