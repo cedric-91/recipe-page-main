@@ -26,7 +26,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/recipe-page-using-tailwind-css--sk9kz6uX3)
 - Live Site URL: [Recipe page](https://cedric-91.github.io/recipe-page-main/)
 
 ## My process
